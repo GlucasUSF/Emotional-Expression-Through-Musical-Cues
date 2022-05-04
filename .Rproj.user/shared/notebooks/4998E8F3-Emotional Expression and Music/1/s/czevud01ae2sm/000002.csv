@@ -1,0 +1,5 @@
+"0","load(file = ""design_matrix.RData"")"
+"0","table <- x"
+"0",""
+"0","load(file = ""mean_emotion_ratings.RData"")"
+"0","means_table <- x"
